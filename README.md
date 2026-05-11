@@ -185,6 +185,7 @@ Data alanında yazılmış yerli ve yabancı makalelerin listesini görmek için
 - ☕☕ [Annotated Research Paper Implementations](https://nn.labml.ai/) - Milestone paper'ların torch tabanlı implementasyonlarını içeren web sitesi.
 - [LLM Engineers Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - Başlangıç seviyesinden deploy almaya kadar giden LLM ve RAG uygulamalarınızı AWS içerisinde deploylamayı gösteren repo ve kitap.
 - [Claude Code Templates](https://www.aitmpl.com/agents) - Claude Code için hazır agent templateler bulabileceğiniz bir web sitesi.
+- [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html) - AI engineering'i sınfırdan öğrenin.
 
 ### 📹 Video Tutorials
 -  [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) - Gemini API üzerinden GenAI temellerini öğrenin.
